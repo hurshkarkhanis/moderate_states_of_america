@@ -13,7 +13,7 @@ Below is a still screenshot of my county by county vizualization.
 
 I got my data from the [MIT Election Lab](https://electionlab.mit.edu/data). **Since COVID-19 has slowed down this year's 2020 Presidential Election and the data isn't finalized yet, I worked with 2016 Presidential Election data.**
 
-The data has election results county by county, listing the FIPS code (unique code to identify any county in the US), state name, number of Hillary Clinton votes, number of Donald Trump votes, and number of 'other' votes (Third [arty candidates or write-ins).
+The data has election results county by county, listing the FIPS code (unique code to identify any county in the US), state name, number of Hillary Clinton votes, number of Donald Trump votes, and number of 'other' votes (Third party candidates or write-ins).
 
 I added columns for Democratic percentage, Republican percentage, and Other percentage, to better suit the colorscale on my plot (below).
 
@@ -23,7 +23,13 @@ A **choropleth** is a color coded map, used to visualize data in certain geograp
 
 ## Visualization
 
-[Click here to open the interactive plot!](interactive_map/county_level_results)
+[Click here to open the interactive plot!](interactive_map/county_level_results.html)
+
+## Interpretation
+
+Whether you lean left like me or right like some of my family members, every one can agree on the fact that broad-ly brushing each state into being blue or red is not the best way to understand our country. There are many liberals in conservative states, as there are conservatives in liberal states. Many of these blue-red divisions are more clearly see at the county level, since those in the same county tend to have similar views, while those in different parts of the same state might not.
+
+**I think being able to see the intricacies in our politics, shades of purple like the map, instead of just the polarities, blue or red, is a great first step to healing the divisions the last few elections have caused.**
 
 ## Next Steps
 
