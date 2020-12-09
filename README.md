@@ -15,7 +15,7 @@ I got my data from the [MIT Election Lab](https://electionlab.mit.edu/data). **S
 
 The data has election results county by county, listing the FIPS code (unique code to identify any county in the US), state name, number of Hillary Clinton votes, number of Donald Trump votes, and number of 'other' votes (Third party candidates or write-ins).
 
-I added columns for Democratic percentage, Republican percentage, and Other percentage, to better suit the colorscale on my plot (below).
+I added columns for Democratic percentage, Republican percentage, and Other percentage, to better suit the colorscale on my plot.
 
 ## Plotting Data on Choropleth Map
 
@@ -27,7 +27,7 @@ Clone or download this GitHub repo and go to `interactive_map/county_level_resul
 
 ## Interpretation
 
-Whether you lean left like me or right like some of my family members, every one can agree on the fact that broad-ly brushing each state into being blue or red is not the best way to understand our country. There are many liberals in conservative states, as there are conservatives in liberal states. Many of these blue-red divisions are more clearly see at the county level, since those in the same county tend to have similar views, while those in different parts of the same state might not.
+Whether you lean left like me or right like some of my family members, every one can agree on the fact that broad-ly brushing each state into being blue or red is not the best way to understand our country. There are many liberals in conservative states, as there are conservatives in liberal states. Many of these blue-red divisions are more clearly seen at the county level, since those in the same county tend to have similar views, while those in different parts of the same state might not.
 
 **I think being able to see the intricacies in our politics, shades of purple like the map, instead of just the polarities, blue or red, is a great first step to healing the divisions the last few elections have caused.**
 
