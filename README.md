@@ -2,7 +2,7 @@
 
 Being a data analyst, I'm always looking for ways to improve visualizations to better understand the numbers and tell a more detailed story. This being an election year, every American spent time looking at colored maps of the Unites States, counting up electoral votes to see who would become our next President. 
 
-Most of these maps categorie our country *only* into ![red states and blue states](https://i.insider.com/5fa1eb001df1d50018218b7e?width=1108&format=jpeg), but I believe that instead of this broad brush technique, its worth looking at our the US at a more granular, county level.
+Most of these maps categorie our country *only* into [red states and blue states](https://i.insider.com/5fa1eb001df1d50018218b7e?width=1108&format=jpeg), but I believe that instead of this broad brush technique, its worth looking at our the US at a more granular, county level.
 
 Below is a still screenshot of my county by county vizualization.
 
