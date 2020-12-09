@@ -23,7 +23,7 @@ A **choropleth** is a color coded map, used to visualize data in certain geograp
 
 ## Visualization
 
-[Click here to open the interactive plot!](interactive_map/county_level_results.html)
+Clone or download this GitHub repo and go to `interactive_map/county_level_results.html` to check out the interactive plot!
 
 ## Interpretation
 
