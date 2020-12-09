@@ -7,7 +7,7 @@ Most of these maps categorie our country *only* into [red states and blue states
 Below is a still screenshot of my county by county vizualization.
 
 ![still_screenshot](interactive_map/still_shot.png)
-*Interactive HTML file is at the end of README!*
+
 
 ## Data Wrangling
 
